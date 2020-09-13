@@ -13,4 +13,4 @@ I'm Luis Sanjuan from Cali-Colombia :round_pushpin:. I'm an Software Engineer an
 * <a href="https://twitter.com/lsanjuan92">Twitter</a>
 * <a href="https://www.linkedin.com/in/luiscode92/">LinkedIn</a>
 </div>
-<img src="https://github.com/luiscode92/luiscode92/    blob/master/images/1.png"/>
+<img src="https://github.com/luiscode92/luiscode92/blob/master/images/1.png"/>
