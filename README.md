@@ -1,6 +1,6 @@
-<div style="background-image: url("https://github.com/luiscode92/luiscode92/blob/master/images/1.png");">
+<div style="background-image: url('https://github.com/luiscode92/luiscode92/blob/master/images/1.png');">
 
-### Hi there Welcome to my Github :wave:
+### Hi there!! Welcome to my Github :wave:
 
 <!-- presentation -->
 
