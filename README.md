@@ -13,5 +13,5 @@
 - 🌍 I'm mostly active within the **Holberton Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **branding**, **javascript**, **development**, **design thinking**, **entrepreneurship**
-- 📫 Reach me: [twitter.com/luiscode92](https://twitter.com/luiscode92)
+- 📫 Reach me: [twitter.com/luiscode92](https://twitter.com/luiscode92), [linkedin.com/in/luiscode92/](https://www.linkedin.com/in/luiscode92/)
 - ⚡️ facts: Professional barista, love Zen 
