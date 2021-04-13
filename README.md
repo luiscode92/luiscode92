@@ -1,16 +1,17 @@
-<div style="background-image: url('https://github.com/luiscode92/luiscode92/blob/master/images/1.png');">
+### Hi there 👋
 
-### Hi there!! Welcome to my Github :wave:
+#### I'm a Full-Stack Developer working in Cali, Colombia.
 
-<!-- presentation -->
+##### NOW
 
-I'm Luis Sanjuan from Cali-Colombia :round_pushpin:. I'm an Software Engineer and entrepreneur, I'm passionate about solving problems through coding and algorithms, Barista and Art lover
+- ✨ Crafted last lsunching page(https://lounge.place) website;
 
-:computer: My code is mainly focused in Web development: Front-end with javascript, Angular, Reactjs, and Back-end with Nodejs, Pyhton, flask and Django, although I do a lot of this and that with other languages, frameworks and tools.
+##### BIO
 
-:mailbox: you can reach me throught:
-
-* <a href="https://twitter.com/lsanjuan92">Twitter</a>
-* <a href="https://www.linkedin.com/in/luiscode92/">LinkedIn</a>
-</div>
-<img src="https://github.com/luiscode92/luiscode92/blob/master/images/1.png"/>
+- 🏢 I'm currently working at **LoungeHQ**
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- 🌍 I'm mostly active within the **Holberton Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **branding**, **javascript**, **development**, **design thinking**, **entrepreneurship**
+- 📫 Reach me: [twitter.com/luiscode92](https://twitter.com/luiscode92)
+- ⚡️ facts: Professional barista, love Zen 
