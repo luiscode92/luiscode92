@@ -4,11 +4,11 @@
 
 ##### NOW
 
-- ✨ Crafted last lsunching page(https://lounge.place) website;
+- ✨ Crafting code at(https://fetcher.ai);
 
 ##### BIO
 
-- 🏢 I'm currently working at **LoungeHQ**
+- 🏢 I'm currently working at **Fetcher.ai** prev **LoungeHQ**
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **Holberton Community**
 - 🌱 Learning all about **Open Source**
