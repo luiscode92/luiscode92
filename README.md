@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Crafting code at(https://fetcher.ai);
+- ✨ Crafting code at(https://luiscode92.github.io);
 
 ##### BIO
 
