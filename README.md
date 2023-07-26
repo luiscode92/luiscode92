@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Fullstack developer with +4 years of experience developing products using Javascript, NodeJs, Reactjs, several UI frameworks and Web3(Solidity, ethers.js...etc)
+#### Fullstack developer with +5 years of experience developing products using Javascript, NodeJs, Reactjs, several UI frameworks and Web3(Solidity, ethers.js...etc)
 
 ##### NOW
 
@@ -8,7 +8,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Fetcher.ai** prev **LoungeHQ**
+- 🏢 I'm currently working at **Risepal prev **LoungeHQ** **Fetcher.ai**
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`, `ethers.js`
 - 🌍 I'm mostly active within the **DeveloperDAO** **LearnWeb3DAO** **Holberton Community**
 - 🌱 Learning all about **Open Source**
